@@ -1,0 +1,5 @@
+/* Centers the text horizontally and vertically within elements with class "center-text" */
+.center-text {
+  text-align: center;
+  line-height: 200px; /* Adjust this value to vertically center based on element height */
+}

@@ -1,0 +1,4 @@
+/* Makes elements with class "transparent" partially transparent */
+.transparent {
+  opacity: 0.7;
+}

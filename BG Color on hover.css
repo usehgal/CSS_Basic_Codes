@@ -1,0 +1,4 @@
+/* Changes the background color to lightgray when hovering over buttons */
+button:hover {
+  background-color: lightgray;
+}

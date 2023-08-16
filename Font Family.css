@@ -1,0 +1,4 @@
+/* Sets the font family of all paragraphs to Arial */
+p {
+  font-family: Arial, sans-serif;
+}

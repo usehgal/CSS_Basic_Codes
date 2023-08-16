@@ -1,0 +1,4 @@
+/* Adds a 1-pixel solid black border to elements with class "bordered" */
+.bordered {
+  border: 1px solid black;
+}

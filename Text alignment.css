@@ -1,0 +1,4 @@
+/* Aligns all paragraphs to the right */
+p {
+  text-align: right;
+}

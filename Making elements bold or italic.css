@@ -1,0 +1,9 @@
+/* Makes all strong elements (e.g., <strong> and <b>) bold */
+strong, b {
+  font-weight: bold;
+}
+
+/* Makes all emphasized elements (e.g., <em> and <i>) italic */
+em, i {
+  font-style: italic;
+}

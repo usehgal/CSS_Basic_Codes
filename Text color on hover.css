@@ -1,0 +1,4 @@
+/* Changes the text color to green when hovering over links */
+a:hover {
+  color: green;
+}

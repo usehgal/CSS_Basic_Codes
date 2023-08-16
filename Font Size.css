@@ -1,0 +1,4 @@
+/* Sets the font size of all headings to 24 pixels */
+h1, h2, h3, h4, h5, h6 {
+  font-size: 24px;
+}

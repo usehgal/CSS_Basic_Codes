@@ -1,0 +1,5 @@
+/* Adds 10 pixels of padding and margin to all sides of elements with class "box" */
+.box {
+  padding: 10px;
+  margin: 10px;
+}

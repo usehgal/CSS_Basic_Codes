@@ -1,0 +1,4 @@
+/* Adds a linear gradient background to the body */
+body {
+  background: linear-gradient(to bottom, #ffcccc, #ff9999);
+}

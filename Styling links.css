@@ -1,0 +1,8 @@
+/* Sets the link color to blue, visited link to purple, and removes underline */
+a {
+  color: blue;
+  text-decoration: none;
+}
+a:visited {
+  color: purple;
+}

@@ -1,0 +1,4 @@
+/* Rounds the corners of elements with class "rounded" */
+.rounded {
+  border-radius: 5px;
+}

@@ -1,0 +1,5 @@
+/* Centers the element with class "centered" horizontally */
+.centered {
+  margin: 0 auto;
+  text-align: center;
+}

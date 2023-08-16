@@ -1,0 +1,4 @@
+/* Sets a fixed width of 200 pixels for elements with class "fixed-width" */
+.fixed-width {
+  width: 200px;
+}
